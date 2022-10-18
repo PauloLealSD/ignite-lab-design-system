@@ -26,7 +26,6 @@ Design System with Storybook.
  <a href="#layout">Layout</a> • 
  <a href="#technologies">Technologies</a> • 
  <a href="#prerequisites">Prerequisites</a> •
- <a href="#demo">Demo</a> •
  <a href="#author">Autor</a> • 
 </p>
 
